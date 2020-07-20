@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          0x01BM
+description:    "Benjamin Marr, Security Consultant from Edinburgh, Scotland."
 url:            "https://marr.id"
 
 # Author
@@ -24,7 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+  #- jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
@@ -33,5 +33,3 @@ paginate:       10
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
